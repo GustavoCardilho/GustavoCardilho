@@ -8,6 +8,8 @@
 
 <div align="center"> 
 
+---
+
 <!-- README-STATS:START -->
 
 ```
@@ -43,16 +45,7 @@ Shell       	11     repos	████░░░░░░░░░░░░░░
 
 <!-- README-STATS:END -->
 
-  
-
-
-<br />
-<br />
-<br />
-
 ---
-
-## 🛠️ Tecnologias que utilizo
 
 ### **Principais Tecnologias**
 [![NestJS, Next.js e TypeScript](https://skillicons.dev/icons?i=nestjs,nextjs,typescript&theme=dark)](https://skillicons.dev)
