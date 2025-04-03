@@ -13,7 +13,7 @@ jobs:
         with:
           COMMIT_BY_ME: "False"
           COMMIT_MESSAGE: "Updated dev metrics"
-          COMMIT_USERNAME: "Kyoudan"
+          COMMIT_USERNAME: "GustavoCardilho"
           COMMIT_EMAIL: "fogoste@gmail.com"
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
