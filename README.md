@@ -69,7 +69,7 @@ Shell       	11     repos	████░░░░░░░░░░░░░░
 [![Node.js, Postgres, Prisma, Redis, Jest, Express, MongoDB, PHP, Sequelize, Firebase](https://skillicons.dev/icons?i=nodejs,postgres,prisma,redis,jest,express,mongodb,php,sequelize,firebase&theme=dark)](https://skillicons.dev)
 
 #### **Front-End**
-[![React, PHP, CSS, Tailwind, HTML, Sass, Emotion, React](https://skillicons.dev/icons?i=react,php,css,tailwind,html,sass,emotion,react&theme=dark)](https://skillicons.dev)
+[![React, PHP, CSS, Tailwind, HTML, Sass, Emotion](https://skillicons.dev/icons?i=react,php,css,tailwind,html,sass,emotion&theme=dark)](https://skillicons.dev)
 
 #### **Outras Tecnologias**
 [![Docker, AWS, Cloudflare, Postman, Git, Linux, Bash, Dev.to, Discord, DiscordJS, Figma, GitHub, GitHub Actions, Go, IntelliJ IDEA, Notion, PNPM, Regex, VSCode, Windows, Rust](https://skillicons.dev/icons?i=docker,aws,cloudflare,postman,git,linux,bash,devto,discord,discordjs,figma,github,githubactions,go,idea,notion,pnpm,regex,vscode,windows,rust&theme=dark)](https://skillicons.dev)
