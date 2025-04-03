@@ -11,14 +11,6 @@
 <br />
 <br />
 <br />
-<br />
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoCardilho&bg_color=0d1117&color=9080ff&line=9180ff&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-<br />
-<br />
-<br />
 
 <div align="center"> 
 
@@ -64,59 +56,25 @@ Shell       	11     repos	████░░░░░░░░░░░░░░
 <br />
 <br />
 
-<h3 align="center">Main skills:</h3>
-<br/>
-<div align="center">
-   <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="42px" height="42px"></a>
-   <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="42px" height="42px"></a>
-   <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="42px" height="42px"></a>
-   <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" alt="Tailwind CSS" width="42px" height="42px"></a>
-   <a href="https://graphql.org/" title="GraphQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/graphql.svg" alt="GraphQL" width="42px" height="42px"></a>
-</div>
+---
 
-<hr/>
-<br />
-<br />
-<br />
+## 🛠️ Tecnologias que utilizo
 
-### Librarys:
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)&nbsp;
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![MaterialUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)&nbsp;
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)&nbsp;
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)&nbsp;
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)&nbsp;
-![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)&nbsp;
-![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)&nbsp;
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)&nbsp;
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)&nbsp;
-![Fastify](https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white)&nbsp;
-![Apollo](https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white)&nbsp;
-![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge)
+### **Principais Tecnologias**
+[![NestJS, Next.js e TypeScript](https://skillicons.dev/icons?i=nestjs,nextjs,typescript&theme=dark)](https://skillicons.dev)
 
-<br />
-<br />
-<br />
+### **Tecnologias que também utilizo**
 
-### Databases:
-![MySQL](https://img.shields.io/badge/-MySQL-1c1c1c?style=for-the-badge&logo=mysql&labelColor=1c1c1c)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-1c1c1c?style=for-the-badge&logo=mongodb&labelColor=1c1c1c)&nbsp;
-![PostgresSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+#### **Back-End**
+[![Node.js, Postgres, Prisma, Redis, Jest, Express, MongoDB, PHP, Sequelize, Firebase](https://skillicons.dev/icons?i=nodejs,postgres,prisma,redis,jest,express,mongodb,php,sequelize,firebase&theme=dark)](https://skillicons.dev)
 
+#### **Front-End**
+[![React, PHP, CSS, Tailwind, HTML, Sass, Emotion, React](https://skillicons.dev/icons?i=react,php,css,tailwind,html,sass,emotion,react&theme=dark)](https://skillicons.dev)
 
-<br />
-<br />
-<br />
+#### **Outras Tecnologias**
+[![Docker, AWS, Cloudflare, Postman, Git, Linux, Bash, Dev.to, Discord, DiscordJS, Figma, GitHub, GitHub Actions, Go, IntelliJ IDEA, Notion, PNPM, Regex, VSCode, Windows, Rust](https://skillicons.dev/icons?i=docker,aws,cloudflare,postman,git,linux,bash,devto,discord,discordjs,figma,github,githubactions,go,idea,notion,pnpm,regex,vscode,windows,rust&theme=dark)](https://skillicons.dev)
 
-### Studying in this moment:
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=fc3f0a)&nbsp;
-![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
+---
 
 <br />
 <br />
