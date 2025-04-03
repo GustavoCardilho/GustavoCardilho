@@ -2,12 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=afa3ff4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gustavo+Cardilho;I'm+17+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GustavoCardilho&show_icons=true&count_private=true&hide_border=true&title_color=afa3ff4&icon_color=afa3ff4&text_color=9080ff&bg_color=0d1117" alt="GustavoCardilho Github Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoCardilho&layout=compact&hide_border=true&title_color=afa3ff4&text_color=9080ff&bg_color=0d1117" />
-</div>
-
 <br />
 <br />
 <br />
