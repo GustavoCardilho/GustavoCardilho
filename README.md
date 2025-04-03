@@ -149,6 +149,10 @@ Shell       	11     repos	████░░░░░░░░░░░░░░
 <br />
 <br />
 
-![Snake animation](https://github.com/GustavoCardilho/GustavoCardilho/blob/output/github-contribution-grid-snake.svg?=center=true&vCenter=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuiCardilho/GuiCardilho/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuiCardilho/GuiCardilho/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/GustavoCardilho/GustavoCardilho/output/github-snake.svg" />
+</picture>
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9080ff&height=120&section=footer"/>
