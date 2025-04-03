@@ -22,6 +22,10 @@
 
 <div align="center"> 
 
+<!-- README-STATS:START -->
+
+<!-- README-STATS:END -->
+
 ![Any](https://github-readme-streak-stats.herokuapp.com/?user=GustavoCardilho&theme=tokyonight)
 <!--  [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GustavoCardilho)](https://github.com/anuraghazra/github-readme-stats) */ -->
 
