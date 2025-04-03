@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9080ff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=afa3ff4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gustavo+Cardilho;I'm+16+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=afa3ff4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gustavo+Cardilho;I'm+17+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
@@ -57,32 +57,7 @@ Shell       	11     repos	████░░░░░░░░░░░░░░
 
 <!-- README-STATS:END -->
 
-![Any](https://github-readme-streak-stats.herokuapp.com/?user=GustavoCardilho&theme=tokyonight)
-<!--  [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GustavoCardilho)](https://github.com/anuraghazra/github-readme-stats) */ -->
-
-</div>
-
-<br />
-<br />
-<br />
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GustavoCardilho&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
   
-<br />
-<br />
-<br />
-
-
-<div align="center"> 
-    <a href="https://www.instagram.com/guuh_raff/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.twitch.tv/fizzhl" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-   <a href="https://discord.gg/Mzf5wQZH" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-</div>
-
 
 
 <br />
