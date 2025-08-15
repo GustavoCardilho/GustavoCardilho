@@ -74,5 +74,17 @@ Shell       	12     repos	█████░░░░░░░░░░░░░
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuiCardilho/GuiCardilho/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/GustavoCardilho/GustavoCardilho/output/github-snake.svg" />
 </picture>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9080ff&height=120&section=footer"/>
